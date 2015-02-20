@@ -38,31 +38,31 @@ if (empty($lang) || !is_array($lang))
 
 // Email settings
 $lang = array_merge($lang, array(
-	'ACP_MASS_EMAIL_EXPLAIN'		=> 'Here you can email a message to either all of your users or all users of a specific group <strong>having the option to receive mass emails enabled</strong>. To achieve this an email will be sent out to the administrative email address supplied, with a blind carbon copy sent to all recipients. The default setting is to only include 20 recipients in such an email, for more recipients more emails will be sent. If you are emailing a large group of people please be patient after submitting and do not stop the page halfway through. It is normal for a mass emailing to take a long time, you will be notified when the script has completed.',
-	'ALL_USERS'						=> 'All users',
+	'ACP_MASS_EMAIL_EXPLAIN'		=> 'Di sini anda dapat mengirimkan pesan e-mail ke semua pengguna dan pengguna dari grup spesifik <strong>setelah pilihan untuk menerima e-mail massa telah diaktifkan</strong>. Untuk mencapai ini sebuah e-mail akan dikirm ke e-mail administratif yang disediakan, dengan blind carbon copy (bcc) yang dikirimkan ke semua penerima. Pengaturan defaultnya hanya mengikutsertakan 50 penerima e-mail, gunakan lebih untuk mengirim e-mail lebih banyak. Jika anda mengirimkan e-mail ke grup yang besar, mohon bersabar sebentar setelah mengajukan pengiriman e-mail tersebut dan jangan berpindah ke halaman lain. Adalah normal jikaa pengiriman e-mail memakan waktu yang cukup lama, dan anada akan diberitahukan apabila skrip ini sudah selesai.',
+	'ALL_USERS'						=> 'Semua pengguna',
 
-	'COMPOSE'				=> 'Compose',
+	'COMPOSE'				=> 'Buat e-mail',
 
-	'EMAIL_SEND_ERROR'		=> 'There were one or more errors while sending the email. Please check the %sError log%s for detailed error messages.',
-	'EMAIL_SENT'			=> 'This message has been sent.',
-	'EMAIL_SENT_QUEUE'		=> 'This message has been queued for sending.',
+	'EMAIL_SEND_ERROR'		=> 'Ada beberapa error pada saat pengiriman e-mail. Mohon periksa %sLog error%s untuk keterangan dari pesan yang error.',
+	'EMAIL_SENT'			=> 'Pesan ini telah terkirim.',
+	'EMAIL_SENT_QUEUE'		=> 'Pesan ini masih menunggu antrian pengiriman.',
 
-	'LOG_SESSION'			=> 'Log mail session to critical log',
+	'LOG_SESSION'			=> 'Sesi log pesan ke log kritikal',
 
-	'SEND_IMMEDIATELY'		=> 'Send immediately',
-	'SEND_TO_GROUP'			=> 'Send to group',
-	'SEND_TO_USERS'			=> 'Send to users',
-	'SEND_TO_USERS_EXPLAIN'	=> 'Entering names here will override any group selected above. Enter each username on a new line.',
+	'SEND_IMMEDIATELY'		=> 'Kirim secepatnya',
+	'SEND_TO_GROUP'			=> 'Kirim ke grup',
+	'SEND_TO_USERS'			=> 'Kirim ke pengguna',
+	'SEND_TO_USERS_EXPLAIN'	=> 'Dengan memasukkan nama maka akan mengesampingkan semua grup yang dipilih di atase. Masukkan nama pengguna pada setiap baris baru.',
 
-	'MAIL_BANNED'			=> 'Mail banned users',
-	'MAIL_BANNED_EXPLAIN'	=> 'When sending a mass email to a group you can select here whether banned users will also receive the email.',
-	'MAIL_HIGH_PRIORITY'	=> 'High',
-	'MAIL_LOW_PRIORITY'		=> 'Low',
+	'MAIL_BANNED'			=> 'Alamat email pengguna yang dilarang',
+	'MAIL_BANNED_EXPLAIN'	=> 'Ketika mengirimkan sebuah email massa ke sebuah grup, anda bisa memilih juga apakah alamat email pengguna yang dilarang akan menerima email ini.',
+	'MAIL_HIGH_PRIORITY'	=> 'Tinggi',
+	'MAIL_LOW_PRIORITY'		=> 'Rendah',
 	'MAIL_NORMAL_PRIORITY'	=> 'Normal',
-	'MAIL_PRIORITY'			=> 'Mail priority',
-	'MASS_MESSAGE'			=> 'Your message',
-	'MASS_MESSAGE_EXPLAIN'	=> 'Please note that you may enter only plain text. All markup will be removed before sending.',
+	'MAIL_PRIORITY'			=> 'Prioritas pesan',
+	'MASS_MESSAGE'			=> 'Pesan anda',
+	'MASS_MESSAGE_EXPLAIN'	=> 'Mohon dicatat bahwa anda hanya bisa memasukkan teks biasa dan yang lainnya akan dihapus.',
 
-	'NO_EMAIL_MESSAGE'		=> 'You must enter a message.',
-	'NO_EMAIL_SUBJECT'		=> 'You must specify a subject for your message.',
+	'NO_EMAIL_MESSAGE'		=> 'Anda harus memasukkan pesan.',
+	'NO_EMAIL_SUBJECT'		=> 'Anda harus menentukan subjek dari pesan.',
 ));
