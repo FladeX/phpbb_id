@@ -1,10 +1,10 @@
-Subject: Post disapproved - "{POST_SUBJECT}"
+Subject: Post ditolak - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Hallo {USERNAME},
 
-You are receiving this notification because your post "{POST_SUBJECT}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Anda menerima pemberitahuan ini karena post anda "{POST_SUBJECT}" di "{SITENAME}" telah ditolak oleh moderator ataupun administrator.
 
-The following reason was given for the disapproval:
+Alasan berikut ini diberikan atas penolakan tersebut:
 
 {REASON}
 
