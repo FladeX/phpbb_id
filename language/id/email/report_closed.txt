@@ -1,7 +1,7 @@
-Subject: Report closed - "{POST_SUBJECT}"
+Subject: Laporan ditutup - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Hallo {USERNAME},
 
-You are receiving this notification because the report you filed on the post "{POST_SUBJECT}" in "{TOPIC_TITLE}" at "{SITENAME}" was handled by a moderator or by an administrator. The report was afterwards closed. If you have further questions contact {CLOSER_NAME} with a personal message.
+Anda menerima pemberitahuan ini karena laporan yang anda file-kan di post "{POST_SUBJECT}" pada topik "{TOPIC_TITLE}" di "{SITENAME}" telah ditangani oleh moderator atau administrator. Setelah itu laporan ditutup. Jika anda memiliki pertanyaan lebih lanjut silahkan hubungi {CLOSER_NAME} dengan pesan pribadi.
 
 {EMAIL_SIG}
