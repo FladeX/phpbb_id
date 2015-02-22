@@ -1,19 +1,19 @@
-Subject: Welcome to "{SITENAME}"
+Subject: Selamat datang di "{SITENAME}"
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Silahkan simpan e-mail ini sebagai catatan. Berikut ini adalah informasi account anda:
 
 ----------------------------
-Username: {USERNAME}
+Nama Pengguna: {USERNAME}
 
-Board URL: {U_BOARD}
+Halaman URL: {U_BOARD}
 ----------------------------
 
-Your account is currently inactive and will need to be approved by an administrator before you can log in. Another email will be sent when this has occurred.
+Account anda belum aktif sekarang ini dan perlu disetujui oleh administrator sebelum anda boleh masuk. Anda akan menerima e-mail yang lain setelah disetujui.
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Mohon agar mengingat kata sandi anda yang telah dienkripsi di database kami dan kami tidak bisa memberikan kata sandi tersebut kepada anda. Akan tetapi, apabila anda tidak mengingat kata sandi anda, anda bisa meminta kata sandi yang baru yang akan diaktifkan kembali oleh administrator.
 
-Thank you for registering.
+Terima kasih atas pendaftarannya.
 
 {EMAIL_SIG}
