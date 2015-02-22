@@ -1,17 +1,17 @@
-Subject: Reactivate your account on "{SITENAME}"
+Subject: Pengaktifan kembali account anda di "{SITENAME}"
 
-A board administrator requested that your account be reactivated. Your account is currently inactive.
-Please follow the steps listed here to reactivate your account.
+Administrator meminta agar account anda diaktifkan kembali. Account anda sekarang ini masih belum aktif.
+Silahkan ikuti langkah-langkah berikut ini untuk mengaktifkan account anda kembali.
 
-Please keep this email for your records. Your account information is as follows:
+Silahkan simpan e-mail ini sebagai catatan. Berikut ini adalah informasi account anda:
 
 ----------------------------
-Username: {USERNAME}
+Nama Pengguna: {USERNAME}
 ----------------------------
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Kata sandi anda telah dienkripsi di database kami. Jika anda lupa kata sandi anda, anda dapat meminta kata sandi yang baru yang akan diaktifkan seperti account anda ini.
 
-Please visit the following link to reactivate your account:
+Silahkan kunjungi link berikut ini untuk mengaktifkan account anda kembali:
 
 {U_ACTIVATE}
 
