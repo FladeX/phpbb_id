@@ -1,10 +1,10 @@
-Subject: Topic disapproved - "{TOPIC_TITLE}"
+Subject: Topik ditolak - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Hallo {USERNAME},
 
-You are receiving this notification because your topic "{TOPIC_TITLE}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Anda menerima pemberitahuan ini karena topik anda "{TOPIC_TITLE}" di "{SITENAME}" telah ditolak oleh moderator atau administrator.
 
-The following reason was given for the disapproval:
+Alasan berikut ini diberikan atas penolakan tersebut:
 
 {REASON}
 
