@@ -1,12 +1,12 @@
-Subject: New topic notification - "{FORUM_NAME}"
+Subject: Pemberitahuan topik baru - "{FORUM_NAME}"
 
-Hello {USERNAME},
+Hallo {USERNAME},
 
-You are receiving this notification because you are watching the forum "{FORUM_NAME}" at "{SITENAME}". This forum has received a new topic<!-- IF AUTHOR_NAME !== '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit, "{TOPIC_TITLE}". You can use the following link to view the forum, no more notifications will be sent until you visit the forum.
+Anda mendapatkan pemberitahuan ini karena anda sedang memperhatikan forum "{FORUM_NAME}" pada "{SITENAME}". Forum ini telah menerima sebuah topik<!-- IF AUTHOR_NAME !== '' --> by {AUTHOR_NAME}<!-- ENDIF --> baru sejak kunjungan terakhir anda, "{TOPIC_TITLE}". Anda dapat menggunakan link berikut ini untuk melihat forum tersebut, tidak akan ada lagi pemberitahuan yang akan dikirim kepada anda sampai anda mengunjungi forum tersebut.
 
 {U_FORUM}
 
-If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+Jika anda sudah tidak ingin memperhatikan forum ini lagi, anda dapat mengklik link "Berhenti berlangganan" yang terdapat di bawah forum, atau dengan mengklik link berikut ini:
 
 {U_STOP_WATCHING_FORUM}
 
