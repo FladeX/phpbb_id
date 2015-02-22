@@ -1,16 +1,16 @@
-Subject: "{SITENAME}" - Email a friend
+Subject: "{SITENAME}" - E-mail teman
 
-Hello {TO_USERNAME},
+Hallo {TO_USERNAME},
 
-This email was sent from "{SITENAME}" by {FROM_USERNAME} who thought you may be interested in the following topic:
+E-mail ini dikirim dari "{SITENAME}" oleh {FROM_USERNAME} yang menganggap anda tertarik dengan topik berikut ini:
 
 {TOPIC_NAME}
 
-You can find it at:
+Anda dapat menemukannya pada:
 
 {U_TOPIC}
 
-A message from {FROM_USERNAME} may also be included below. Please note that this message has not been seen or approved by the board administrators. If you wish to complain about having received this email please contact the board administrator at {BOARD_CONTACT}. Please quote the message headers when contacting this address.
+Pesan dari {FROM_USERNAME} juga dapat dimasukkan dibawah ini. Mohon dicatat, bahwa pesan ini belum dilihat ataupun disetujui oleh administrator. Jika anda ingin mengadukan keluhan telah menerima e-mail ini, silahkan menghubungi administrator di {BOARD_CONTACT}. Mohon mengikutkan judul pesan ketika menghubungi alamat-alamat ini.
 
 ----------
 
