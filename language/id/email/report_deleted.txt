@@ -1,7 +1,7 @@
-Subject: Report deleted - "{POST_SUBJECT}"
+Subject: Laporan dihapus - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Hallo {USERNAME},
 
-You are receiving this notification because the report you filed on the post "{POST_SUBJECT}" in "{TOPIC_TITLE}" at "{SITENAME}" was deleted by a moderator or by an administrator.
+Anda menerima pemberitahuan ini karena laporan yang anda file-kan di post "{POST_SUBJECT}" pada topik "{TOPIC_TITLE}" di "{SITENAME}" telah dihapus oleh moderator atau administrator.
 
 {EMAIL_SIG}
